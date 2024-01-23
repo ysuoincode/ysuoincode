@@ -1,4 +1,7 @@
 ## Bem-vindo(a) ao meu perfil 😁
+   Sou Moisés Makarem Ribeiro<br>
+   Estudante de Análise e Desenvolvimento de Sistemas<br>
+   Buscando evoluir e alcançar metas através da Tecnologia!<br>
 
 <div>
    <a href="https://github.com/ysuoincode">
