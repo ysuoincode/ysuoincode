@@ -6,7 +6,6 @@
 <div>
    <a href="https://github.com/ysuoincode">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysuoincode&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysuoincode&layout=compact&langs_count=6&theme=nightowl"/>
 </div>
        
 <div style="display: inline_block"><br>
