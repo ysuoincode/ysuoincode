@@ -2,12 +2,7 @@
    Sou Moisés Makarem Ribeiro<br>
    Estudante de Análise e Desenvolvimento de Sistemas<br>
    Buscando evoluir e alcançar metas através da Tecnologia!<br>
-
-<div>
-   <a href="https://github.com/ysuoincode">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ysuoincode&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-</div>
-       
+   
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
